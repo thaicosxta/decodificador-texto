@@ -12,7 +12,7 @@ Este é um projeto simples de um decodificador de texto que permite criptografar
 ## Descrição
 
 O Decodificador de Texto é um projeto proposto pela Alura, com o objetivo de permitir aos usuários criptografar e descriptografar mensagens usando uma técnica de substituição simples, aprendida nos cursos disponíveis na formação de iniciante em programação com JavaScript.
-Elvis (nome que aparece no título do decodificador) é baseado no desejo pessoal de ter um gatinho com este nome (pois é, Elvis ainda é um sonho distante meu, mas vamos ver esse projeto como uma wishlist kkkkk). Ele aparece na versão desktop, então recomendo abrir o projeto em um computador para uma experiência melhor <3
+Elvis (nome que aparece no título do decodificador) é baseado no desejo pessoal de ter um gatinho com este nome (pois é, Elvis ainda é um sonho distante meu, mas vamos ver esse projeto como uma wishlist kkkkk); Ele aparece com mais facilidade na versão desktop, mas em dispositivos mobile, basta ativar a rotação de tela e virar para ele aparecer <3
 ## Como Usar
 
 1. **Criptografar Texto:**
